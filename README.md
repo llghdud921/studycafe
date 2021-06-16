@@ -1,6 +1,9 @@
 
 ## Study Cafe Reservation
 
-개발 언어 및 프레임워크
+스터디 카페 좌석예약 시스템
 
--spring boot, java, javascript
+개발 언어 및 프레임워크
+-spring boot, java
+
+
