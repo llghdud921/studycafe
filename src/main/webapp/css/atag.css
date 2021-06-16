@@ -1,0 +1,15 @@
+@charset "UTF-8";
+a:link {
+	text-decoration: none;
+	color: #74A155;
+	font-size: 18px;
+}
+
+a:visited {
+	color: #74A155;
+}
+
+a:hover {
+	background-color: #74A155;
+	color: white;
+}

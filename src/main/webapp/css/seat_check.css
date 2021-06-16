@@ -1,0 +1,33 @@
+@charset "UTF-8";
+#B {margin-left : 100px;
+   margin-right : 100px;
+   text-align : center;
+}
+@font-face {
+   font-family: InterparkGothicMedium;
+   src: url('./font/InterparkGothicMedium.ttf') format('truetype');
+}
+
+body {
+   font-family: InterparkGothicMedium;
+}
+input[class="btn_1"]{
+   background-color:#BCEE68;
+   color:#ffffff;
+   font-size:12px;
+   font-weight:bold;
+   margin-top:10px; 
+   width:100px; 
+   height:30px;
+   border-radius:20px 20px;
+   font-family: InterparkGothicMedium;
+}
+
+input[class="btn_2"]{
+    background-color:white; 
+    margin-top:10px; 
+    width:100px; 
+    height:30px;
+    border-radius:20px 20px;
+     font-family: InterparkGothicMedium;
+}
